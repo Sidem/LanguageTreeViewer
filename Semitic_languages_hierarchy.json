@@ -33,6 +33,21 @@
           },
           "children": [
             {
+              "name": "Old Akkadian[1][2]",
+              "info": {},
+              "children": []
+            },
+            {
+              "name": "Assyrian",
+              "info": {},
+              "children": []
+            },
+            {
+              "name": "Babylonian[3]",
+              "info": {},
+              "children": []
+            },
+            {
               "name": "Canaano-Akkadian language",
               "info": {},
               "children": []
@@ -160,7 +175,13 @@
                             "Glottolog": "west2763",
                             "ELP": "Western Neo-Aramaic"
                           },
-                          "children": []
+                          "children": [
+                            {
+                              "name": "Maalouli, Bakh'a, Jubb'adin",
+                              "info": {},
+                              "children": []
+                            }
+                          ]
                         },
                         {
                           "name": "Samaritan Aramaic language",
@@ -175,23 +196,6 @@
                             "ISO 639-3": "sam",
                             "Glottolog": "sama1314"
                           },
-                          "children": []
-                        },
-                        {
-                          "name": "Jewish Palestinian Aramaic",
-                          "info": {
-                            "Region": "Levant",
-                            "Era": "150 BCE \u2013 1200 CE",
-                            "Language family": "Afro-Asiatic Semitic, Central Semitic, Northwest Semitic, Aramaic, Western Aramaic, Jewish Palestinian Aramaic",
-                            "Writing system": "Aramaic alphabet",
-                            "ISO 639-3": "jpa",
-                            "Glottolog": "gali1269"
-                          },
-                          "children": []
-                        },
-                        {
-                          "name": "Christian Palestinian Aramaic",
-                          "info": {},
                           "children": []
                         }
                       ]
@@ -265,60 +269,6 @@
                                     "Region": "Urmia, northwestern Iran",
                                     "Language family": "Afro-Asiatic Semitic, Central Semitic, Northwest Semitic, Aramaic, Eastern Aramaic, Northeastern, Neo-Aramaic of Urmia",
                                     "ISO 639-3": "\u2013"
-                                  },
-                                  "children": []
-                                },
-                                {
-                                  "name": "Nochiya tribe",
-                                  "info": {},
-                                  "children": []
-                                },
-                                {
-                                  "name": "Barwari",
-                                  "info": {},
-                                  "children": []
-                                },
-                                {
-                                  "name": "Jilu",
-                                  "info": {},
-                                  "children": []
-                                },
-                                {
-                                  "name": "Tyari",
-                                  "info": {},
-                                  "children": []
-                                },
-                                {
-                                  "name": "Erbil",
-                                  "info": {
-                                    "Country": "Iraq",
-                                    "Autonomous region": "Kurdistan Region",
-                                    "Governorate": "Erbil",
-                                    "\u2022\u00a0Mayor": "Omed Khoshnaw",
-                                    "\u2022\u00a0Total": "115 km2 (44 sq mi)",
-                                    "\u2022\u00a0Land": "113 km2 (44 sq mi)",
-                                    "\u2022\u00a0Water": "2 km2 (0.8 sq mi)",
-                                    "Elevation": "390 m (1,280 ft)",
-                                    "\u2022\u00a0Estimate\u00a0(2018)[2]": "879,071",
-                                    "\u2022\u00a0Density": "10,435/km2 (27,030/sq mi)",
-                                    "Time zone": "UTC+3 (AST)",
-                                    "Postal code": "44001",
-                                    "Area code": "066",
-                                    "Website": "Hawler, Gov.org"
-                                  },
-                                  "children": []
-                                },
-                                {
-                                  "name": "Nineveh Plains",
-                                  "info": {
-                                    "Largest city": "Bakhdida",
-                                    "\u2022\u00a0Governor of Hamdaniya": "Nisan Karromi",
-                                    "\u2022\u00a0Governor of Tel Keppe": "Basim Bello",
-                                    "\u2022\u00a0Governor of Al-Shikhan": "Hasu Narmu",
-                                    "\u2022\u00a0Total": "4,197 km2 (1,620 sq mi)",
-                                    "\u2022\u00a02012 estimate": "500,000",
-                                    "\u2022\u00a01987\u00a0census": "281,829",
-                                    "\u2022\u00a0Density": "117/km2 (303.0/sq mi)"
                                   },
                                   "children": []
                                 }
@@ -554,7 +504,7 @@
                       "info": {
                         "Pronunciation": "Modern: [iv\u02c8\u0281it][note 1]Tiberian: [\u0295iv\u02c8ri\u03b8] Biblical: [\u0295ib\u02c8rit]",
                         "Native\u00a0to": "Israel",
-                        "Region": "Land of Israel",
+                        "Region": "Palestine",
                         "Ethnicity": "Israelites; Jews and Samaritans",
                         "Extinct": "Mishnaic Hebrew extinct as a spoken language by the 5th century CE, surviving as a liturgical language along with Biblical Hebrew for Judaism[1][2][3]",
                         "Revival": "Revived in the late 19th century CE. 9 million speakers of Modern Hebrew, of which 5 million are native speakers and 3.3 million are second language speakers (2018)[4]",
@@ -580,11 +530,6 @@
                           "children": []
                         }
                       ]
-                    },
-                    {
-                      "name": "Revival of the Hebrew language",
-                      "info": {},
-                      "children": []
                     },
                     {
                       "name": "Ammonite language",
@@ -635,20 +580,6 @@
                         "Glottolog": "phoe1239 Phoenicianphoe1238 Phoenician\u2013Punic"
                       },
                       "children": []
-                    },
-                    {
-                      "name": "Punic language",
-                      "info": {
-                        "Region": "Tunisia, coastal parts of Algeria, Morocco, southern Iberia, Balearic islands, Libya, Malta, western Sicily, southern and eastern Sardinia",
-                        "Era": "8th century BC to 6th century AD",
-                        "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Northwest Semitic, Canaanite, Phoenician, Punic",
-                        "Early form": "Phoenician",
-                        "Writing system": "Phoenician alphabet",
-                        "ISO 639-3": "xpu",
-                        "Linguist List": "xpu",
-                        "Glottolog": "puni1241neop1239 Neo-Punic"
-                      },
-                      "children": []
                     }
                   ]
                 },
@@ -675,21 +606,7 @@
                     "ISO 639-3": "None (mis)",
                     "Glottolog": "amor1239"
                   },
-                  "children": [
-                    {
-                      "name": "Ugaritic",
-                      "info": {
-                        "Native\u00a0to": "Ugarit",
-                        "Extinct": "12th century BC",
-                        "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Northwest Semitic, Amoritic?Ugaritic",
-                        "Writing system": "Ugaritic alphabet",
-                        "ISO 639-2": "uga",
-                        "ISO 639-3": "uga",
-                        "Glottolog": "ugar1238"
-                      },
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 },
                 {
                   "name": "Samalian language",
@@ -976,7 +893,13 @@
                         "ISO 639-3": "(covered by apc)",
                         "Glottolog": "sout3123"
                       },
-                      "children": []
+                      "children": [
+                        {
+                          "name": "FellahiMadani",
+                          "info": {},
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "name": "Jordanian Arabic",
@@ -989,7 +912,18 @@
                         "ISO 639-3": "(covered by apc)",
                         "Glottolog": "sout3123east2690"
                       },
-                      "children": []
+                      "children": [
+                        {
+                          "name": "Fellahi (rural)",
+                          "info": {},
+                          "children": []
+                        },
+                        {
+                          "name": "Madani (urban)",
+                          "info": {},
+                          "children": []
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1031,6 +965,11 @@
                             "Glottolog": "oran1236",
                             "IETF": "arq-u-sd-dz31"
                           },
+                          "children": []
+                        },
+                        {
+                          "name": "Eastern Algerian Arabic",
+                          "info": {},
                           "children": []
                         }
                       ]
@@ -1140,19 +1079,6 @@
                               "children": []
                             }
                           ]
-                        },
-                        {
-                          "name": "Western Egyptian Bedawi Arabic",
-                          "info": {
-                            "Native\u00a0to": "Egypt",
-                            "Region": "Alexandria, Beheira, Matruh, Beni Suef, Cairo, Egypt\u2013Libya border",
-                            "Speakers": "470,000 (2021)[1]",
-                            "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic, Libyan Arabic[2]Western Egyptian Bedawi Arabic",
-                            "Writing system": "Arabic alphabet",
-                            "ISO 639-3": "ayl included in Libyan Arabic [ayl][2]",
-                            "Glottolog": "west2774"
-                          },
-                          "children": []
                         }
                       ]
                     },
@@ -1250,6 +1176,11 @@
                       "children": []
                     },
                     {
+                      "name": "Dialectal continuums:",
+                      "info": {},
+                      "children": []
+                    },
+                    {
                       "name": "Hilalian dialects",
                       "info": {
                         "Region": "Maghreb",
@@ -1261,114 +1192,14 @@
                       },
                       "children": [
                         {
-                          "name": "Libyan Arabic",
-                          "info": {
-                            "Pronunciation": "[\u02c8li\u02d0bi]",
-                            "Native\u00a0to": "Libya, Egypt, Niger[1]",
-                            "Ethnicity": "Arabs",
-                            "Speakers": "5.4 million in all countries (2020)[1]",
-                            "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic, Libyan Arabic",
-                            "Dialects": "Western Libyan Arabic, Eastern Libyan Arabic, Western Egyptian Bedawi Arabic",
-                            "Writing system": "Arabic script",
-                            "Signed forms": "Libyan Sign",
-                            "ISO 639-3": "ayl",
-                            "Glottolog": "liby1240"
-                          },
-                          "children": [
-                            {
-                              "name": "Eastern Libyan Arabic",
-                              "info": {
-                                "Native\u00a0to": "Cyrenaica, eastern Libya",
-                                "Ethnicity": "Arabs",
-                                "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic, Libyan Arabic, Eastern Libyan Arabic",
-                                "Dialects": "Western Egyptian Bedawi Arabic",
-                                "Writing system": "Arabic script",
-                                "ISO 639-3": "ayl",
-                                "Glottolog": "east2691"
-                              },
-                              "children": [
-                                {
-                                  "name": "Western Egyptian Bedawi Arabic",
-                                  "info": {
-                                    "Native\u00a0to": "Egypt",
-                                    "Region": "Alexandria, Beheira, Matruh, Beni Suef, Cairo, Egypt\u2013Libya border",
-                                    "Speakers": "470,000 (2021)[1]",
-                                    "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic, Libyan Arabic[2]Western Egyptian Bedawi Arabic",
-                                    "Writing system": "Arabic alphabet",
-                                    "ISO 639-3": "ayl included in Libyan Arabic [ayl][2]",
-                                    "Glottolog": "west2774"
-                                  },
-                                  "children": []
-                                }
-                              ]
-                            },
-                            {
-                              "name": "Western Egyptian Bedawi Arabic",
-                              "info": {
-                                "Native\u00a0to": "Egypt",
-                                "Region": "Alexandria, Beheira, Matruh, Beni Suef, Cairo, Egypt\u2013Libya border",
-                                "Speakers": "470,000 (2021)[1]",
-                                "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic, Libyan Arabic[2]Western Egyptian Bedawi Arabic",
-                                "Writing system": "Arabic alphabet",
-                                "ISO 639-3": "ayl included in Libyan Arabic [ayl][2]",
-                                "Glottolog": "west2774"
-                              },
-                              "children": []
-                            }
-                          ]
-                        },
-                        {
-                          "name": "Algerian Saharan Arabic",
-                          "info": {
-                            "Native\u00a0to": "Algeria, Niger, Morocco, Western Sahara, Mauritania, Mali, Libya",
-                            "Region": "Atlas Mountains, southern Sahara",
-                            "Speakers": "250,000 (2022)[1]",
-                            "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi, Algerian Saharan Arabic",
-                            "ISO 639-3": "aao",
-                            "Glottolog": "alge1240"
-                          },
+                          "name": "Chaoui Moroccan Arabic",
+                          "info": {},
                           "children": []
                         },
                         {
-                          "name": "Hassaniya Arabic",
-                          "info": {
-                            "Native\u00a0to": "Southwestern Algeria, Libya, Northwestern Mali, Mauritania, southern Morocco, Northern Niger, Western Sahara",
-                            "Ethnicity": "Arab, Arab-Berber (Sahrawi; Beidane) Haratins",
-                            "Speakers": "5.2 million (2014\u20132021)[1]",
-                            "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic\u1e24ass\u0101n\u012bya",
-                            "Dialects": "Nemadi Imraguen",
-                            "Writing system": "Arabic alphabet, Latin alphabet (in Senegal)",
-                            "Official language\u00a0in": "Mali[2]",
-                            "Recognised minoritylanguage\u00a0in": "Morocco[3]",
-                            "ISO 639-3": "mey",
-                            "Glottolog": "hass1238"
-                          },
-                          "children": [
-                            {
-                              "name": "Nemadi dialect",
-                              "info": {
-                                "Native\u00a0to": "Mali, Mauritania",
-                                "Region": "Timbuktu into Mauritania",
-                                "Native speakers": "(200 cited 1967)[1]",
-                                "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi, Hassaniyya, Nemadi",
-                                "ISO 639-3": "\u2013",
-                                "Glottolog": "None"
-                              },
-                              "children": []
-                            },
-                            {
-                              "name": "Imraguen dialect",
-                              "info": {
-                                "Native\u00a0to": "Mauritania",
-                                "Region": "Banc d'Arguin National Park",
-                                "Native speakers": "530 (2006)[6]",
-                                "Language family": "Unclassified (Hassaniya Arabic variety with an Azer (Soninke) base per Ethnologue or Berber base per Fortier, Corinne 2004)",
-                                "ISO 639-3": "ime (retired)",
-                                "Glottolog": "imer1236"
-                              },
-                              "children": []
-                            }
-                          ]
+                          "name": "Dukala Moroccan Arabic",
+                          "info": {},
+                          "children": []
                         },
                         {
                           "name": "Western Egyptian Bedawi Arabic",
@@ -1434,175 +1265,6 @@
                             "ISO 639-2": "jrb",
                             "ISO 639-3": "jrb \u2013 inclusive code, Individual codes:yhd \u2013 Judeo-Iraqi Arabicaju \u2013 Judeo-Moroccan Arabicyud \u2013 Judeo-Tripolitanian Arabicjye \u2013 Judeo-Yemeni Arabic",
                             "Glottolog": "None"
-                          },
-                          "children": []
-                        },
-                        {
-                          "name": "Siculo-Arabic",
-                          "info": {
-                            "Native\u00a0to": "Emirate of Sicily",
-                            "Era": "9th\u201313th centuries",
-                            "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic, Siculo-Arabic",
-                            "Writing system": "Arabic alphabet",
-                            "ISO 639-3": "sqr",
-                            "Glottolog": "None"
-                          },
-                          "children": []
-                        },
-                        {
-                          "name": "Maltese language",
-                          "info": {
-                            "Pronunciation": "[\u02c8m\u0250\u02d0lt\u026a]",
-                            "Native\u00a0to": "Malta",
-                            "Ethnicity": "Maltese",
-                            "Native speakers": "530,000 (2012)[1]",
-                            "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Arabic, Maghrebi Arabic, Pre-Hilalian Arabic, Siculo-Arabic, Maltese",
-                            "Early form": "Siculo-Arabic",
-                            "Dialects": "Cottonera Gozitan Qormi \u017bejtuni Australian Central Western Eastern Zurrieq Port Maltese M\u0121arr Xlukkajr G\u0127axaq Qawsra \u2020",
-                            "Writing system": "Latin (Maltese alphabet)Maltese Braille",
-                            "Official language\u00a0in": "Malta, European Union",
-                            "Regulated\u00a0by": "National Council for the Maltese Language, Il-Kunsill Nazzjonali tal-Ilsien Malti",
-                            "ISO 639-1": "mt",
-                            "ISO 639-2": "mlt",
-                            "ISO 639-3": "mlt",
-                            "Glottolog": "malt1254",
-                            "Linguasphere": "12-AAC-c"
-                          },
-                          "children": [
-                            {
-                              "name": "Cottonera Dialect",
-                              "info": {
-                                "Pronunciation": "[k\u0254t\u02d0\u0254n\u025b\u02c8r\u0250n]",
-                                "Region": "Three Cities and surrounding area",
-                                "Native speakers": "About 10,000[citation needed] (2014)",
-                                "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Arabic, Maghrebi Arabic, Siculo-Arabic, Maltese, Cottonera dialect",
-                                "Writing system": "Maltese alphabet",
-                                "ISO 639-3": "\u2013"
-                              },
-                              "children": []
-                            },
-                            {
-                              "name": "Gozitan dialects",
-                              "info": {
-                                "Pronunciation": "[/\u02c8a\u02d0w.t\u0361\u0283\u026a/]",
-                                "Native\u00a0to": "Malta",
-                                "Region": "Gozo",
-                                "Native speakers": "About 32,000",
-                                "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Arabic, Maghrebi Arabic, Siculo-Arabic, Maltese, Gozitan",
-                                "Dialects": "G\u0127arb Xewkija",
-                                "Writing system": "Latin (Maltese alphabet)",
-                                "ISO 639-3": "\u2013",
-                                "Glottolog": "gozo1238",
-                                "Linguasphere": "12-AAC-cag"
-                              },
-                              "children": []
-                            },
-                            {
-                              "name": "Qormi dialect",
-                              "info": {
-                                "Region": "Qormi and surrounding area",
-                                "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Arabic, Maghrebi Arabic, Siculo-Arabic, Maltese, Qormi dialect",
-                                "Writing system": "Maltese alphabet",
-                                "ISO 639-3": "\u2013",
-                                "IETF": "mt-u-sd-mt43"
-                              },
-                              "children": []
-                            },
-                            {
-                              "name": "%C5%BBejtun dialect",
-                              "info": {
-                                "Region": "\u017bejtun and surrounding area",
-                                "Native speakers": "About 12,000 (2020)[1]",
-                                "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Arabic, Maghrebi Arabic, Siculo-Arabic, Maltese\u017bejtun dialect",
-                                "Writing system": "Maltese alphabet",
-                                "ISO 639-3": "\u2013",
-                                "IETF": "mt-u-sd-mt67"
-                              },
-                              "children": []
-                            },
-                            {
-                              "name": "Maltralian",
-                              "info": {
-                                "Native\u00a0to": "Australia",
-                                "Ethnicity": "Maltese Australians",
-                                "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Arabic, Maghrebi Arabic, Siculo-Arabic, Maltese, Maltralian",
-                                "Writing system": "Maltese alphabet",
-                                "ISO 639-3": "\u2013",
-                                "IETF": "mt-AU"
-                              },
-                              "children": []
-                            },
-                            {
-                              "name": "Imgarri dialect",
-                              "info": {
-                                "Region": "M\u0121arr",
-                                "Native speakers": "(About 3,000 cited 1994)",
-                                "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, Arabic, Maghrebi Arabic, Siculo-Arabic, Maltese, Imgarri Dialect",
-                                "Writing system": "Maltese alphabet",
-                                "ISO 639-3": "\u2013"
-                              },
-                              "children": []
-                            },
-                            {
-                              "name": "Pantelleria#History",
-                              "info": {
-                                "Country": "Italy",
-                                "Region": "Sicily",
-                                "Province": "Trapani (TP)",
-                                "Frazioni": "Kamma, Pantelleria Aeroporto, Scauri, Bagno Dell'Acqua, Bonsulton, Buccaram Di Sopra, Bugeber, Campobello, Contrada Venedise, Cufur\u00e0, Gadir, Garitte Karuscia, Khaddiuggia, Khamma Fuori, Localit\u00e0 Cimillia, Localit\u00e0 Mursia, Localit\u00e0 Punta Fram, Localit\u00e0 Roncone - Salerno, Localit\u00e0 Ziton, Madonna Delle Grazie, Martingana, Mordomo, Penna, San Michele, San Vito, Santa Chiara, Scauri I, Siba - Roncone, Villaggio Tre Pietre",
-                                "\u2022\u00a0Mayor": "Vincenzo Vittorio Campo",
-                                "\u2022\u00a0Total": "7,335",
-                                "Elevation": "836 m (2,743 ft)",
-                                "\u2022\u00a0Density": "87/km2 (220/sq mi)",
-                                "Demonym": "Panteschi",
-                                "Time zone": "UTC+1 (CET)",
-                                "\u2022\u00a0Summer (DST)": "UTC+2 (CEST)",
-                                "Postal code": "91017",
-                                "Dialing\u00a0code": "0923",
-                                "Patron saint": "St. Fortunatus",
-                                "Saint day": "16 October",
-                                "Website": "Official website"
-                              },
-                              "children": []
-                            }
-                          ]
-                        },
-                        {
-                          "name": "Andalusi Arabic",
-                          "info": {
-                            "Native\u00a0to": "Al-Andalus (modern-day Spain and Portugal)",
-                            "Extinct": "Early 17th century",
-                            "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic, Andalusi Arabic",
-                            "Writing system": "Arabic alphabet (Maghrebi script)",
-                            "ISO 639-3": "xaa",
-                            "Glottolog": "anda1287"
-                          },
-                          "children": []
-                        },
-                        {
-                          "name": "Tunisian Arabic",
-                          "info": {
-                            "Pronunciation": "[\u02c8tu\u02d0nsi] \u24d8",
-                            "Native\u00a0to": "Tunisia[1]",
-                            "Ethnicity": "Tunisian Arabs",
-                            "Speakers": "12 million (2008-2020 census)[1]",
-                            "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Maghrebi Arabic, Tunisian Arabic",
-                            "Writing system": "Arabic script",
-                            "Signed forms": "Tunisian Sign Language",
-                            "Recognised minoritylanguage\u00a0in": "As a variety of Maghrebi Arabic on 7 May 1999 (Not ratified due to several Constitutional Matters):[2][3]",
-                            "ISO 639-3": "aeb",
-                            "Glottolog": "tuni1259"
-                          },
-                          "children": []
-                        },
-                        {
-                          "name": "Fessi dialect",
-                          "info": {
-                            "Native\u00a0to": "Morocco",
-                            "Language family": "Afro-Asiatic Semitic, West Semitic, Central Semitic, North Arabian, Arabic, Maghrebi, Moroccan, Fessi dialect",
-                            "Writing system": "Arabic alphabet",
-                            "ISO 639-3": "\u2013",
-                            "Glottolog": "fezm1238"
                           },
                           "children": []
                         }
@@ -1678,7 +1340,13 @@
                             "Writing system": "Arabic alphabet",
                             "ISO 639-3": "\u2013"
                           },
-                          "children": []
+                          "children": [
+                            {
+                              "name": "Basrawi",
+                              "info": {},
+                              "children": []
+                            }
+                          ]
                         }
                       ]
                     },
@@ -1790,7 +1458,13 @@
                         "ISO 639-3": "abv",
                         "Glottolog": "baha1259"
                       },
-                      "children": []
+                      "children": [
+                        {
+                          "name": "Qatifi",
+                          "info": {},
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "name": "Omani Arabic",
@@ -1818,7 +1492,13 @@
                         "ISO 639-3": "acw",
                         "Glottolog": "hija1235"
                       },
-                      "children": []
+                      "children": [
+                        {
+                          "name": "Rural Hejazi",
+                          "info": {},
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "name": "Shihhi Arabic",
@@ -1895,7 +1575,28 @@
                             "ISO 639-3": "acq",
                             "Glottolog": "taiz1242"
                           },
-                          "children": []
+                          "children": [
+                            {
+                              "name": "Ta'izzi Arabic",
+                              "info": {
+                                "Native\u00a0to": "Yemen, Djibouti",
+                                "Region": "Taiz, Aden",
+                                "Speakers": "12 million (2020)[1]",
+                                "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Southern, Yemeni Arabic, Ta\u02bdizzi-Adeni Arabic",
+                                "Standard forms": "Djiboutian Arabic",
+                                "Dialects": "Ta'izzi Arabic Adeni Arabic",
+                                "Writing system": "Arabic alphabet",
+                                "ISO 639-3": "acq",
+                                "Glottolog": "taiz1242"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Adeni Arabic",
+                              "info": {},
+                              "children": []
+                            }
+                          ]
                         },
                         {
                           "name": "Judeo-Yemeni Arabic",
@@ -1962,6 +1663,30 @@
                     "Glottolog": "cent2410"
                   },
                   "children": [
+                    {
+                      "name": "Bakhtiari",
+                      "info": {},
+                      "children": []
+                    },
+                    {
+                      "name": "Bukharian",
+                      "info": {
+                        "Israel": "160,000",
+                        "United States\nNew York metropolitan area": "120,00080,000",
+                        "United Kingdom": "15,000",
+                        "Austria": "3,000\u20133,500",
+                        "Germany": "2000",
+                        "Uzbekistan\nBukhara": "1,500150[1][2]",
+                        "Canada": "1,500",
+                        "Russia": "1,000"
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "Kashkadarian",
+                      "info": {},
+                      "children": []
+                    },
                     {
                       "name": "Khorasani Arabic",
                       "info": {
@@ -2046,7 +1771,7 @@
                   "name": "Sa%CA%BDidi Arabic",
                   "info": {
                     "Native\u00a0to": "Egypt",
-                    "Region": "Al Minya Governorate and south to Sudan border; Red Sea area; Cairo area",
+                    "Region": "Upper Egypt; from Beni Suef in the north to Aswan in the south",
                     "Ethnicity": "Sa'idis",
                     "Speakers": "25 million (2021)[1]",
                     "Language family": "Afro-Asiatic Semitic, Central Semitic, Arabic, Sa\u02bd\u012bdi Arabic",
@@ -2205,7 +1930,23 @@
                 "Subdivisions": "North Ethiopic South Ethiopic",
                 "Glottolog": "ethi1244"
               },
-              "children": []
+              "children": [
+                {
+                  "name": "North Ethiopic",
+                  "info": {
+                    "Geographicdistribution": "Ethiopia, Eritrea",
+                    "Linguistic classification": "Afro-Asiatic, Semitic, West Semitic, South Semitic, Ethiopian Semitic",
+                    "Subdivisions": "North Ethiopic South Ethiopic",
+                    "Glottolog": "ethi1244"
+                  },
+                  "children": []
+                },
+                {
+                  "name": "South Ethiopic",
+                  "info": {},
+                  "children": []
+                }
+              ]
             },
             {
               "name": "Old South Arabian languages",
@@ -2269,6 +2010,12 @@
                     "Glottolog": "hadr1235"
                   },
                   "children": []
+                },
+                {
+                  "name": "Aws\u0101nian",
+                  "info": {},
+                  "children": [],
+                  "extinct": true
                 },
                 {
                   "name": "Himyaritic language",
